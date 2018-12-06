@@ -1,0 +1,12 @@
+
+ps aux | grep ssh
+
+ssh -f -N -D 1080 tuos@lxplus.cern.ch
+
+./start
+ 
+encrypted: dnt211lIa 
+
+
+
+
