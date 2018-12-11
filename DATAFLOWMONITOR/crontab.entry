@@ -1,4 +1,6 @@
 # Data flow monitor for the 2018 PbPb run
 # Run with: "crontab crontab.entry", and write down the node ID you are running the cron jobs (gw341)
-00 */3 * * * cd /scratch/tuos/trigger/CMSSW_10_3_0_pre5/src/lihan/AODProgress && /bin/bash progressJob.sh
-03 */3 * * * cd /scratch/tuos/trigger/CMSSW_10_3_0_pre5/src/lihan/DataVolume && /bin/bash datavolumeJob.sh
+00 09 * * * cd /scratch/tuos/trigger/CMSSW_10_3_0_pre5/src/lihan/AODProgress && /bin/bash progressJob.sh
+03 09 * * * cd /scratch/tuos/trigger/CMSSW_10_3_0_pre5/src/lihan/DataVolume && /bin/bash datavolumeJob.sh
+00 11 * * * cd /scratch/tuos/trigger/CMSSW_10_3_0_pre5/src/lihan && cp */output*.txt /store/user/tuos/trigger/lihan/
+
