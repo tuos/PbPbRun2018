@@ -1,0 +1,4 @@
+# Data flow monitor for the 2018 PbPb run
+# Run with: "crontab crontab.entry", and write down the lxplusXXX node you are running the cron jobs (gw341)
+01 * * * * cd /scratch/tuos/trigger/rerecoMonitor/AODProgress && /bin/bash progressJob.sh
+05 * * * * cd /scratch/tuos/trigger/rerecoMonitor/DataVolume && /bin/bash datavolumeJob.sh

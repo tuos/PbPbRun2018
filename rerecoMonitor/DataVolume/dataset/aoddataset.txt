@@ -1,0 +1,7 @@
+/HISingleMuon/HIRun2018A-04Apr2019-v1/AOD
+/HIDoubleMuon/HIRun2018A-04Apr2019-v1/AOD
+/HIDoubleMuonPsiPeri/HIRun2018A-04Apr2019-v1/AOD
+/HIHardProbes/HIRun2018A-04Apr2019-v1/AOD
+/HIHardProbesLower/HIRun2018A-04Apr2019-v1/AOD
+/HIHardProbesPeripheral/HIRun2018A-04Apr2019-v1/AOD
+/HIMinimumBias0/HIRun2018A-04Apr2019-v1/AOD
