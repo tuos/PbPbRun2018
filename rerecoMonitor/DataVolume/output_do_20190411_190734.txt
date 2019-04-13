@@ -1,0 +1,6 @@
+aod for each pd
+0	0	0	0	0	0	0	
+get total aod
+0
+get aod at vandy
+0

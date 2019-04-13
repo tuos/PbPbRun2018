@@ -1,4 +1,4 @@
-# Data flow monitor for the 2018 PbPb run
-# Run with: "crontab crontab.entry", and write down the lxplusXXX node you are running the cron jobs (gw341)
-01 * * * * cd /scratch/tuos/trigger/rerecoMonitor/AODProgress && /bin/bash progressJob.sh
-05 * * * * cd /scratch/tuos/trigger/rerecoMonitor/DataVolume && /bin/bash datavolumeJob.sh
+# Monitor for the re-reco of PbPb data in 2019
+# Run with: "crontab crontab.entry", and write down the node you are running the cron jobs (gw341)
+0 */3 * * * cd /scratch/tuos/trigger/CMSSW_10_3_0_pre5/src/rerecoMonitor/Visualization && /bin/bash scheduleAll.sh
+#54 * * * * cd /scratch/tuos/trigger/CMSSW_10_3_0_pre5/src/rerecoMonitor/Visualization && /bin/bash scheduleAll.sh 

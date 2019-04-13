@@ -1,4 +1,19 @@
 
-need: voms-proxy-init -voms cms -rfc
+need: 
+voms-proxy-init -voms cms -rfc
+better to use:
+voms-proxy-init -rfc -voms cms -valid 192:00
+===
 
+cd /scratch/tuos/trigger/CMSSW_10_3_0_pre5/src/rerecoMonitor
+cmsenv
+
+voms-proxy-init -rfc -voms cms -valid 192:00
+cp /tmp/x509up_u126986 ~/
+
+crontab -l
+crontab -r
+crontab -l
+crontab crontab.entry
+crontab -l
 
