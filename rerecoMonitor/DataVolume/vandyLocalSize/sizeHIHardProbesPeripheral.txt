@@ -1,0 +1,10 @@
+  Size      File count            Filename
+----------  ----------  ------------------------------
+   2.050T          563  /cms/store/hidata/HIRun2018A/HIHardProbesPeripheral/AOD/04Apr2019-v1/120000/
+   2.660G            1  /cms/store/hidata/HIRun2018A/HIHardProbesPeripheral/AOD/04Apr2019-v1/120001/
+   2.304T          637  /cms/store/hidata/HIRun2018A/HIHardProbesPeripheral/AOD/04Apr2019-v1/260000/
+  55.372G           25  /cms/store/hidata/HIRun2018A/HIHardProbesPeripheral/AOD/04Apr2019-v1/260001/
+   2.818T          773  /cms/store/hidata/HIRun2018A/HIHardProbesPeripheral/AOD/04Apr2019-v1/270000/
+ 126.935G           58  /cms/store/hidata/HIRun2018A/HIHardProbesPeripheral/AOD/04Apr2019-v1/270001/
+----------  ----------  ------------------------------
+   7.356T         2057  TOTAL

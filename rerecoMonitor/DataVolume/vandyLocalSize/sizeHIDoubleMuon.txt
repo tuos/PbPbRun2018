@@ -1,0 +1,20 @@
+  Size      File count            Filename
+----------  ----------  ------------------------------
+   6.649T          918  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/110000/
+   4.922T          966  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/110001/
+   6.637T          918  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/110002/
+ 401.333G           78  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/110003/
+   6.757T          868  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/120000/
+   4.591T          888  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/120001/
+   3.832T          935  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/120002/
+ 217.753G           58  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/120003/
+   5.552T          887  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/260000/
+   4.183T          778  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/260001/
+   5.199T          860  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/260002/
+   5.715T          851  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/260003/
+   3.859T          528  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/260004/
+ 167.165G           35  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/260005/
+   6.389T          948  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/270000/
+   4.262T          669  /cms/store/hidata/HIRun2018A/HIDoubleMuon/AOD/04Apr2019-v1/270001/
+----------  ----------  ------------------------------
+  69.333T        11185  TOTAL

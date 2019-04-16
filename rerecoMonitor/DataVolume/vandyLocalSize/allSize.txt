@@ -1,0 +1,20 @@
+==> sizeHIDoubleMuon.txt <==
+  69.333T        11185  TOTAL
+
+==> sizeHIDoubleMuonPsiPeri.txt <==
+  29.588T         9640  TOTAL
+
+==> sizeHIHardProbes.txt <==
+  67.771T         6969  TOTAL
+
+==> sizeHIHardProbesLower.txt <==
+  21.744T         2042  TOTAL
+
+==> sizeHIHardProbesPeripheral.txt <==
+   7.356T         2057  TOTAL
+
+==> sizeHIMinimumBias0.txt <==
+ 103.651T        35158  TOTAL
+
+==> sizeHISingleMuon.txt <==
+  57.409T        10169  TOTAL

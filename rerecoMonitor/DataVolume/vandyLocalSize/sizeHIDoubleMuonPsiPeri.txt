@@ -1,0 +1,17 @@
+  Size      File count            Filename
+----------  ----------  ------------------------------
+   3.617T         1093  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/260000/
+   2.672T          855  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/260001/
+   2.503T          823  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/260002/
+   2.433T          770  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/260003/
+ 238.579G           69  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/260004/
+   3.230T         1025  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/270000/
+   2.088T          740  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/270001/
+   2.457T          787  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/270002/
+   2.331T          775  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/270003/
+   1.886T          624  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/270004/
+   2.226T          763  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/270005/
+   2.378T          791  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/270006/
+   1.527T          525  /cms/store/hidata/HIRun2018A/HIDoubleMuonPsiPeri/AOD/04Apr2019-v1/270007/
+----------  ----------  ------------------------------
+  29.588T         9640  TOTAL

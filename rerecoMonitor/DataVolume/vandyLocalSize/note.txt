@@ -1,0 +1,4 @@
+
+tail -n 1 *.txt > allSize.txt
+
+

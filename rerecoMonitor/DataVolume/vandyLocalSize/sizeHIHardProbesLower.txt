@@ -1,0 +1,7 @@
+  Size      File count            Filename
+----------  ----------  ------------------------------
+   8.791T          835  /cms/store/hidata/HIRun2018A/HIHardProbesLower/AOD/04Apr2019-v1/260000/
+   5.115T          480  /cms/store/hidata/HIRun2018A/HIHardProbesLower/AOD/04Apr2019-v1/260001/
+   7.839T          727  /cms/store/hidata/HIRun2018A/HIHardProbesLower/AOD/04Apr2019-v1/270000/
+----------  ----------  ------------------------------
+  21.744T         2042  TOTAL
