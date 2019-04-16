@@ -18,7 +18,7 @@ ax.tick_params(axis='y', labelsize=25)
 plt.grid(True)
 plt.ylim(0, 500)
 fig.autofmt_xdate()
-plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 16)])
+plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 18)])
 fig.savefig('rerecoVandyVolume.png')
 
 # fig for vandy usable size
@@ -36,7 +36,7 @@ ax.tick_params(axis='y', labelsize=25)
 plt.grid(True)
 plt.ylim(0, 1300)
 fig.autofmt_xdate()
-plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 16)])
+plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 18)])
 fig.savefig('vandyUsableVolume.png')
 
 # fig for re-reco progress
@@ -45,7 +45,7 @@ days3, nEvents = np.loadtxt("../AODProgress/output_rereco_events.txt", unpack=Tr
 
 fig = plt.figure(figsize=(15,10))
 nEvents=nEvents*(1e-6)
-plt.plot_date(x=days, y=volumeSize, fmt="r", marker='o', markersize=20, linestyle='-', color='r', linewidth=5.0, label='Processed events (M)')
+plt.plot_date(x=days3, y=nEvents, fmt="r", marker='o', markersize=20, linestyle='-', color='r', linewidth=5.0, label='Processed events (M)')
 plt.legend(loc='upper left', numpoints = 1, fontsize=40)
 plt.title("Processed events (M) in DAS vs. Time, figure made @ "+str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M"))+" CST", fontsize=20)
 plt.ylabel("PbPb 2019 re-reco processed events (M)", fontsize=25)
@@ -56,7 +56,7 @@ ax.tick_params(axis='y', labelsize=25)
 plt.grid(True)
 plt.ylim(0, 600)
 fig.autofmt_xdate()
-plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 16)])
+plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 18)])
 fig.savefig('rerecoProgressEvents.png')
 
 
