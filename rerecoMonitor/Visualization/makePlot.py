@@ -18,7 +18,7 @@ ax.tick_params(axis='y', labelsize=25)
 plt.grid(True)
 plt.ylim(0, 500)
 fig.autofmt_xdate()
-plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 18)])
+plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 20)])
 fig.savefig('rerecoVandyVolume.png')
 
 # fig for vandy usable size
@@ -36,7 +36,7 @@ ax.tick_params(axis='y', labelsize=25)
 plt.grid(True)
 plt.ylim(0, 1300)
 fig.autofmt_xdate()
-plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 18)])
+plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 20)])
 fig.savefig('vandyUsableVolume.png')
 
 # fig for re-reco progress
@@ -56,7 +56,7 @@ ax.tick_params(axis='y', labelsize=25)
 plt.grid(True)
 plt.ylim(0, 600)
 fig.autofmt_xdate()
-plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 18)])
+plt.xlim([datetime.date(2019, 4, 9), datetime.date(2019, 4, 20)])
 fig.savefig('rerecoProgressEvents.png')
 
 
